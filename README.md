@@ -10,4 +10,4 @@ Day1 of hongbojing_365
 >##*Google searching result style resume
 ######I got this idea from a creative resume style website, which I already forgot, anyway, I would create a one-page resume which looks like the searching result you got from Google, of course please feel free to download it and edit with your information.
 
-[this is the link of my google style resume](http://angularfox.com/hongbojing/development/index.html)
+[Link of day 1](http://angularfox.com/hongbojing/development/index.html)
