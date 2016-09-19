@@ -1,8 +1,8 @@
 # Day1
-Day1 of hongbojing_365
+Day1 of hongbojing_100
 
 ###I read an article yesterday about a web developer lagendary experience from [here](http://jenniferdewalt.com/)
-#####She developed 1 web page per day during a peroid of 180 days, I clicked each page and was impressed, this person is the ideal person to learn coding because she learned by doing, being inspired, I decided to create a new project called 'hongbojing_365', which means that I would create 365 web pages in the next 365 days, and today is the Day1.
+#####She developed 1 web page per day during a peroid of 180 days, I clicked each page and was impressed, this person is the ideal person to learn coding because she learned by doing, being inspired, I decided to create a new project called 'hongbojing_100', which means that I would create 100 web pages in the next 100 days, and today is the Day1.
 
 ###I do not want to copy everything she did, I just like the idea of starting from small, there will be a blog to record this process, let's do it.
 
